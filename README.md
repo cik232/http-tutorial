@@ -19,3 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot 2024-12-22 at 13.44.26.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.44.26.png)
 ![Screenshot 2024-12-22 at 13.44.58.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.44.58.png)
 ![Screenshot 2024-12-22 at 13.45.26.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.45.26.png)
+
+<img width="407" alt="Screenshot 2024-12-22 at 13 42 58" src="https://github.com/user-attachments/assets/7e5d8aed-ab5f-45c8-a5b2-e2737245cbda" />
