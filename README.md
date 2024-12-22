@@ -15,9 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot 2024-12-22 at 13.42.58.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.42.58.png)
-![Screenshot 2024-12-22 at 13.44.26.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.44.26.png)
-![Screenshot 2024-12-22 at 13.44.58.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.44.58.png)
-![Screenshot 2024-12-22 at 13.45.26.png](..%2F..%2FDocuments%2FScreenshot%202024-12-22%20at%2013.45.26.png)
+<img width="407" alt="Screenshot 2024-12-22 at 13 42 58" src="https://github.com/user-attachments/assets/ef811f1e-82bd-4f1e-be21-2e4f0b316c0d" />
+<img width="403" alt="Screenshot 2024-12-22 at 13 44 26" src="https://github.com/user-attachments/assets/8dc1a8a3-671a-4f5a-9cac-bb63123ed496" />
+<img width="405" alt="Screenshot 2024-12-22 at 13 44 58" src="https://github.com/user-attachments/assets/1c261445-3ca0-4de7-bb23-384e410b220e" />
+<img width="405" alt="Screenshot 2024-12-22 at 13 45 26" src="https://github.com/user-attachments/assets/4f24f7ae-0ca9-4a5b-b601-ddd9f7f95c3b" />
 
-<img width="407" alt="Screenshot 2024-12-22 at 13 42 58" src="https://github.com/user-attachments/assets/7e5d8aed-ab5f-45c8-a5b2-e2737245cbda" />
+
